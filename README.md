@@ -6,4 +6,5 @@
 #### leetcode经典hot100
 [1.两数之和](https://blog.csdn.net/2403_88152589/article/details/164377082)
 [2.字母异位词分组](https://blog.csdn.net/2403_88152589/article/details/164405043)
+[3.最长连续序列](https://blog.csdn.net/2403_88152589/article/details/164431769)
 [99下一个排列](https://blog.csdn.net/2403_88152589/article/details/164341412)
